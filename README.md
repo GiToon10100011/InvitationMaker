@@ -1,6 +1,7 @@
 # 🎭 괴도키드 예고장 생성기
 
-![예고장 미리보기](/preview.jpeg)
+![image](https://github.com/user-attachments/assets/43f3887f-22a2-4776-b161-7dce4a10eb3e)
+
 
 ## 📋 프로젝트 정보
 
