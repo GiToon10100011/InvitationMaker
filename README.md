@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/348576b7-91f7-4e51-a32f-de66f743e3c1)
 
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/d571e5d9-ad09-4615-a1fa-8f6b9cf2abb3" />
 
 
 ## 📋 프로젝트 정보
